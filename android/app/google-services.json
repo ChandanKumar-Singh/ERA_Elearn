@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "42137152962",
+    "project_id": "era-elearn",
+    "storage_bucket": "era-elearn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42137152962:android:faeb71d47ef1b03958fa5b",
+        "android_client_info": {
+          "package_name": "com.example.era_elearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42137152962-898rr30rtbsdf153odcvsk5v4nfvijbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZc2pwY1XchWjfQ79YD1KwNbdgmetKLtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42137152962-898rr30rtbsdf153odcvsk5v4nfvijbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
